@@ -7,6 +7,6 @@
 <title>Hello, World!</title>
 </head>
 <body>
-<h1>Hello, World!!!! by Varu!</h1>
+<h1>Hello, World!!!! by Varun!</h1>
 </body>
 </html>
